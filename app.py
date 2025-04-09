@@ -180,12 +180,6 @@ def main():
         4. The visualization is **converted to JSON** data for further analysis
         5. We **quantitatively analyze** your visualization against research-backed thresholds
         6. You receive **analytical recommendations** with specific thresholds and metrics
-        
-        Our analysis is based on visualization research including:
-        - Cleveland & McGill's perception studies
-        - Tufte's data-ink ratio principles
-        - Miller's Law (7±2 cognitive capacity)
-        - Color theory and accessibility standards
         """)
 
 if __name__ == "__main__":
